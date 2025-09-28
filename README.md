@@ -73,11 +73,9 @@ Queues can be implemented in two ways:
 
       return 0;
   }
-  ```
+  ``` 
 
-  # 📌 Program Summary and Algorithm  
-
-## 📖 Program Summary  
+##  Program Summary  
 This program demonstrates the **implementation of a queue using arrays in C++**.  
 
 - A class `Queue` is defined with:  
